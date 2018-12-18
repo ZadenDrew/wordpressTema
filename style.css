@@ -1,0 +1,54 @@
+/*
+Theme Name: twentyseventeenchild
+Theme URL: silocreativo.com
+Description: Tema hijo para nuestro tema padre
+Author: Andrea
+Template: twentyseventeen
+Version: 1.0.0
+Tags: light
+Text Domain: twentyseventeenchild
+*/
+
+@import url("../twentyseventeen/style.css");
+
+small a {
+    color:green;
+}
+footer{
+     color:green;
+     background-color:#aedcee;
+    
+}
+header{
+    background-color:#33FFC1;
+    color:blue;
+}
+site-description{
+     background-color:#aedcee; 
+}
+
+single{
+    background-color:#4033FF;
+}
+h2{
+    color:#33FFC1;
+}
+sidebar{
+    color:#FF3368;
+}
+menu{
+    color:#FFCE33;
+}
+content-area {
+    background-color:#FFCE33;
+    color:red;
+}
+aside{
+    background-color:#aedcee;
+}
+.calendar_wrap{
+     background-color:#e8e07d;
+}
+site-branding{
+   background-color:#aedcee  
+}
